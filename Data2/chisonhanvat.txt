@@ -1,0 +1,38 @@
+Chỉ_Số_Nhân_Vật
+Ngày : 27-04-17
+Với các chỉ_số tùy biến khác_nhau của nhân_vật như : Sức_Mạnh , Nội_Công , Gân_Cốt , Thân_Pháp & Linh_Hoạt , Tấn_Công , Phòng_Thủ , Sinh_Lực , ... sẽ giúp nhân_vật của quý nhân_sĩ trở_thành những trường_phái khác_nhau .
+Ví_như cùng là đệ_tử Thiếu_Lâm_Phái nhưng chư_vị sở_hữu Sức_Mạnh cao hơn sẽ xuất chiêu vô_cùng mạnh_mẽ , nếu chuyên về Linh_Hoạt hoặc Thân_Pháp sẽ giúp nhân_vật hoạt_bát và xuất chiêu nhanh hơn bao_giờ hết !
+Webgame_Võ_Lâm_Truyền_Kỳ
+Nhấp biểu_tượng Nhân_Vật ( hoặc phím C ) > Chọn các mục tương_ứng
+Tiềm_Năng
+Trường_phái tăng Điểm_Tiềm_Năng nào sẽ là sự lựa_chọn của chư_vị ? Khi hanh_thông được các huyết_mạch tiềm_năng trên người sẽ giúp võ_công tăng biến vạn phần , thiên_biến_vạn_hóa đến xoay_chuyển càng khôn !
+Webgame_Võ_Lâm_Truyền_Kỳ
+Thăng cấp sẽ nhận được số điểm tiềm_năng tương_ứng với cấp_độ ( khác_nhau tại mỗi cấp ) .
+Tùy_thuộc môn_phái và các chỉ_số sẽ tăng Lực_Chiến khác_nhau .
+Có_thể sử_dụng chức_năng " Tự_Động " để tăng điểm ( ở giai_đoạn đầu ) & có_thể tùy chọn trường_phái phân_phối tiềm_năng hợp_lý cho riêng mình .
+Nội_Công
+Sự đột_phá trong võ học ngoài Tiềm_Năng vốn được định_hình tùy theo môn_phái , còn phụ_thuộc không ít vào chỉ_số Nội_Công của bản_thân . Cứ mỗi sự quyết_định luyện nội_công theo hướng : Tấn_Công , Phòng_Thủ hoặc Sinh_Lực sẽ quyết_định bản_sắc riêng của nhân_vật !
+Webgame_Võ_Lâm_Truyền_Kỳ
+Hạ quái chênh_lệch với cấp nhân_vật không quá 10 sẽ tăng điểm Kinh_Nghiệm_Nội_Công .
+Điểm_Kinh_Nghiệm_Nội_Công đầy nhận ngay Điểm_Nội_Công ( Tối_đa 50 điểm/1ngày ) .
+Dùng_Điểm_Nội_Công hoặc Nội_Công_Đơn tùy chọn tăng các chỉ_số Nội_Công .
+Chỉ_số Nội_Công đạt giới_hạn : Dùng_Đột_Phá_Quyết mở giới_hạn mới ( có xóa chúc_phúc ) .
+Ghi_chú : Mở thẻ Hoàng_Kim để tăng giới_hạn nhận được Điểm_Nội_Công hàng ngày .
+Webgame_Võ_Lâm_Truyền_Kỳ
+Nội_Đơn
+Tương_truyền trong khắp chốn giang_hồ : Mỗi căn_nguyên của bậc kỳ_tài võ học đều có sự chi_phối của Nội_Đơn . Khi_Nội_Đơn được kích_hoạt đồng_nghĩa với việc luyện võ_công trở_nên dễ_dàng hơn bao_giờ hết , bởi huyết_mạch được hanh_thông gần_như toàn_phần .
+Webgame_Võ_Lâm_Truyền_Kỳ
+Hạ quái tại Tần_Lăng sẽ nhận được Nội_Đơn .
+Dùng_Nội_Đơn để tăng thuộc_tính nhân_vật .
+Có_thể dùng các Nội_Đơn cấp thấp để nâng_cấp lên cao hơn .
+Mỗi loại Nội_Đơn được dùng tối_đa 20 lần/ngày ( cấp càng cao dùng được nhiều hơn ) .
+Webgame_Võ_Lâm_Truyền_Kỳ
+Thân mời quý nhân_sĩ theo_dõi các nội_dung gợi_ý quan_trọng bên dưới để việc bôn_tẩu Webgame_Võ_Lâm_Truyền_Kỳ trở_nên trọn_vẹn nhất :
+Hướng_dẫn nạp Thẻ
+Nhận ngay Code khủng !
+Nhân_vật nào hợp với nhân_sĩ ?
+Chuỗi hoạt_động bôn_tẩu giang_hồ
+Loạn chiến các tính_năng rực lửa !
+Chuỗi sự_kiện khai mở máy_chủ mới
+Tham_gia luận đàm võ_công Webgame_Võ_Lâm_Truyền_Kỳ tại đây !
+Các thắc_mắc liên_quan đến Webgame_Võ_Lâm_Truyền_Kỳ , quý nhân_sĩ vui_lòng liên_hệ kênh hotro . zing.vn hoặc tổng_đài 1900 561 558 để được hỗ_trợ nhanh_nhất !
