@@ -14,7 +14,7 @@ Using TF-IDF to get "Key word" to create a tinyDict about Game "Vo lam truyen ky
 
 - Enjoy!
 
-##  Knowledgement 
+##  Tools 
 - python
 
 - pandas 
